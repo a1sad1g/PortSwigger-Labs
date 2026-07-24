@@ -17,6 +17,6 @@ Gain unauthorized access to the administrator account using disclosed credential
 6. Logged out of my account and logged into the `administrator` account using the retrieved password.
 7. Accessed the Admin Panel and successfully deleted the target user.
 
-## Key Takeaways
+## What I have learned
 * **Never trust client-side input:** The backend must independently verify if the authenticated session has permission to access the requested user ID.
 * **Avoid Sensitive Data Exposure:** Sensitive fields (such as passwords or secret tokens) should never be rendered in HTTP response bodies, even for profile pages.
