@@ -17,10 +17,6 @@ This repository serves as a personal documentation hub and learning journal as I
 ## 📚 Topics Covered
 
 - [x] **Access Control**
-- [ ] **SQL Injection (SQLi)**
-- [ ] **Cross-Site Scripting (XSS)**
-- [ ] **Cross-Site Request Forgery (CSRF)**
-- [ ] **Authentication Vulnerabilities**
 - [ ] *More topics coming soon...*
 
 ---
